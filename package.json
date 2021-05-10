@@ -25,7 +25,7 @@
   "dependencies": {
     "bcfg": "^0.1.5",
     "bclient": "^0.1.6",
-    "bcrypto": "^3.0.2",
+    "bcrypto": "^5.4.0",
     "bdb": "^1.1.5",
     "bdns": "^0.1.4",
     "bevent": "^0.1.4",
